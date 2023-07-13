@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm com2s, a passionate developer interested in SSAFY. Welcome to my GitHub profile!
 
 <!-- 기술 스택 -->
-## Tech Stack
+## Interested in...
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 <!--
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
