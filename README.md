@@ -20,6 +20,12 @@ I'm com2s, a passionate developer interested in SSAFY. Welcome to my GitHub prof
 ## Interested in...
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![JSX](https://img.shields.io/badge/JSX-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TSX](https://img.shields.io/badge/TSX-007ACC?style=flat-square&logo=react&logoColor=white)
+![zustand](https://img.shields.io/badge/zustand-4A4A4A?style=flat-square&logo=zustand&logoColor=white)
 <!--
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
